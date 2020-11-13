@@ -12,7 +12,7 @@
 | OS Disk (NVMe) | LITEON T10 NVMe 256G |
 | WIFI | DW 1820A |
 
-**macOS version**: 10.15.7
+**macOS version**: 11.0.1
 **OpenCore version**: 0.6.3
 
 ## How to use
@@ -34,6 +34,21 @@
 - Airdrop, Hand-off, Sidecar
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
 - Sleep, Wakeup, Shutdown, Restart
+
+## HIDPI fix
+
+```bash
+git clone https://github.com/mlch911/one-key-hidpi.git
+cd one-key-hidpi
+./hidpi.command
+```
+
+# Solve the problem of not being able to add applications to "Privacy-Accessibility"
+
+```bash
+sudo chmod 777 /Library/Application\ Support/com.apple.TCC
+sudo rm -rf /Library/Application\ Support/com.apple.TCC/TCC.db
+```
 
 # Acknowledgements
 
