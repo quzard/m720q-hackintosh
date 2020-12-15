@@ -12,8 +12,8 @@
 | OS Disk (NVMe) | LITEON T10 NVMe 256G |
 | WIFI | DW 1820A |
 
-**macOS version**: 11.0.1
-**OpenCore version**: 0.6.3
+**macOS version**: 11.1.0
+**OpenCore version**: 0.6.4
 
 ## How to use
 
