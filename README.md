@@ -1,4 +1,4 @@
-# OpenCore EFI for Lenovo M720Q (macOS 10.15.7)
+# OpenCore EFI for Lenovo M720Q (macOS 11.2.3)
 ## Just for backup
 
 ## Specification
@@ -12,8 +12,8 @@
 | OS Disk (NVMe) | LITEON T10 NVMe 256G |
 | WIFI | DW 1820A |
 
-**macOS version**: 11.1.0
-**OpenCore version**: 0.6.4
+**macOS version**: 11.2.3
+**OpenCore version**: 0.6.5
 
 ## How to use
 
