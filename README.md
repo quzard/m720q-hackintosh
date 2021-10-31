@@ -6,14 +6,14 @@
 | ------------- | --------- |
 | CPU | Intel i5-9500T |
 | Motherboard | Intel B360 |
-| RAM | 8GB DDR4-2133 |
+| RAM | 16GB DDR4-2133 |
 | Audio Chipset | ALC235 |
 | GPU | Intel® UHD Graphics 630 (DP, HDMI, VGA) |
 | OS Disk (NVMe) | LITEON T10 NVMe 256G |
-| WIFI | DW 1820A |
+| WIFI | Intel 7265 |
 
-**macOS version**: 11.2.3
-**OpenCore version**: 0.6.5
+**macOS version**: 12.0.1
+**OpenCore version**: 0.7.4
 
 ## How to use
 
