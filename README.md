@@ -43,13 +43,6 @@ cd one-key-hidpi
 ./hidpi.command
 ```
 
-# Solve the problem of not being able to add applications to "Privacy-Accessibility"
-
-```bash
-sudo chmod 777 /Library/Application\ Support/com.apple.TCC
-sudo rm -rf /Library/Application\ Support/com.apple.TCC/TCC.db
-```
-
 # Acknowledgements
 
 [m720q-OpenCore-Catalina](https://github.com/tobagin/m720q-OpenCore-Catalina)
