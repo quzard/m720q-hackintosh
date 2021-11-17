@@ -38,7 +38,7 @@
 ## HIDPI fix
 
 ```bash
-git clone https://github.com/mlch911/one-key-hidpi.git
+git clone https://github.com/xzhih/one-key-hidpi.git
 cd one-key-hidpi
 ./hidpi.command
 ```
