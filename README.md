@@ -1,4 +1,4 @@
-# OpenCore EFI for Lenovo M720Q (macOS 11.2.3)
+# OpenCore EFI for Lenovo M720Q (macOS 12.0.1)
 ## Just for backup
 
 ## Specification
