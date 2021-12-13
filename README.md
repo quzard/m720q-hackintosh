@@ -13,7 +13,7 @@
 | WIFI | Intel 7265 |
 
 **macOS version**: 12.0.1
-**OpenCore version**: 0.7.4
+**OpenCore version**: 0.7.6
 
 ## How to use
 
