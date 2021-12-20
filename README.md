@@ -1,4 +1,4 @@
-# OpenCore EFI for Lenovo M720Q (macOS 12.0.1)
+# OpenCore EFI for Lenovo M720Q (macOS 12.1)
 ## Just for backup
 
 ## Specification
@@ -12,7 +12,7 @@
 | OS Disk (NVMe) | LITEON T10 NVMe 256G |
 | WIFI | Intel 7265 |
 
-**macOS version**: 12.0.1
+**macOS version**: 12.1
 **OpenCore version**: 0.7.6
 
 ## How to use
